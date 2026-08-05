@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # Calculadora Python
@@ -30,3 +31,10 @@ O programa recebe dois números e uma operação matemática (`+`, `-`, `*` ou `
 - Divisão (`/`)
 - Validação de operação inválida
 
+---
+
+### Como executar
+
+1. Clone o repositório:
+```bash
+git clone https://github.com/ncorreia773-netizen/projeto-alura.git
